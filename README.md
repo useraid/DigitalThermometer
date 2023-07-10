@@ -8,13 +8,12 @@ SMT ATMEGA328P-AU based Digital Thermometer
 
 
 ## Schematic
-![Schematic](./Assets/)
+![Schematic](./Assets/SchematicDigitalThermometer.png)
 
 ## PCB
-![PCB](./Assets/)
-![PCB Layout](./Assets/)
+![PCB](./Assets/PCBDigital%20Thermometer.png)
 
 
 ## 3D View
-![3D Front](./Assets/)
-![3D Back](./Assets/)
+![3D Front](./Assets/3DF.png)
+![3D Back](./Assets/3D.png)
